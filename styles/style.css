@@ -1,0 +1,43 @@
+
+html {
+    font-size: 10px;
+    font-family: "IBM Plex Mono", sans-serif;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  html {
+    background-color: #009f9f;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #00ff95ec;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(89, 235, 76);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #009f9f;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+  img {
+    width: 254px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
